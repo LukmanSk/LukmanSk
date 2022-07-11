@@ -1,20 +1,17 @@
 <h1 align="center">Hi 👋, I'm Lukman Sk</h1>
-<h3 align="center">💻I am a M.E.R.N stack Web  Developer</h3>
+<h3 align="center">💻I am a Front End Web  Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LukmanSk01&label=Profile%20views&color=0e75b6&style=flat" alt="LukmanSk" /> </p>
 
 
 - 🔭 I’m currently working on <a href="https://youthful-banach-de04cb.netlify.app/" target="_blank">Quiz App</a>
-
-- 🌱 I’m currently learning **Next.js**
-
 - 👯 I’m looking to collaborate on **Github**
 
 - 💬 Ask me about **Web Development**
 
 ## Connect with me:
 
-<!-- [facebook]: https://fb.com/andunnoor.farukibiswas
+<!-- [facebook]: https://www.facebook.com/profile.php?id=100078923871070
 [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="andunnoor.farukibiswas" height="30" width="60" />][facebook]
 <br /> -->
 
