@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LukmanSk01&label=Profile%20views&color=0e75b6&style=flat" alt="LukmanSk" /> </p>
 
 
-- 🔭 I’m currently working on <a href="https://youthful-banach-de04cb.netlify.app/" target="_blank">Quiz App</a>
+
 - 👯 I’m looking to collaborate on **Github**
 
 - 💬 Ask me about **Web Development**
